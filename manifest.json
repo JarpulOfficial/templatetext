@@ -1,11 +1,11 @@
 {
-  "name": "KompiTextAja",
-  "short_name": "KompiTextAja",
-  "start_url": "https://kompitext.blogspot.com/",
+  "name": "KarirIndonesia",
+  "short_name": "KarirIndonesia",
+  "start_url": "https://www.karirindonesia.id/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "description": "Situs Lowongan Kerja Online CPNS BUMN Terbaru 2019-2020.",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-J-ThvkPC1lc/XDsOh2ZZgRI/AAAAAAAAANA/jiDmW6CT6jI8zvE0agFC3G57WuQ9xJkugCLcBGAs/s48/amp-logo.png",
     "sizes": "48x48",
